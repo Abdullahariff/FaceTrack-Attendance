@@ -1,0 +1,5 @@
+# Ignore attendance log
+attendance.csv
+
+# Ignore known faces folder
+data/images/
